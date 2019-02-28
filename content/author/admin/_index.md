@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Julia A. Gustavsen"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,44 +9,50 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Bioinformatician"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "SOPHiA GENETICS", url = "http://www.sophiagenetics.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+#bio = "My interests include X, Y and Z."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "j.gustavsen@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+"Genomics and Metagenomics",
+  "Multivariate statistics",
+  "Next-Generation Sequencing",
+  "Human Genetics",
+  "Viral and Microbial Ecology",
+  "Data Science",
+  "Network analysis",
+  "Data visualization"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Biological Oceanography"
+  institution = "University of British Columbia"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc(Hons) in Biology"
+  institution = "University of New Brunswick"
+  year = 2005
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in English"
+  institution = "University of New Brunswick"
+  year = 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,17 +67,17 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/JuliaGustavsen"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=zSvJh6sAAAAJ&hl"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/jooolia"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +88,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Julia Gustavsen is a customer facing bioinformatician at SOPHiA GENETICS where she analyzes next generation sequencing (NGS) data.Her professional interests include bioinformatics, genomics, metagenomics, targeted gene studies, network analysis, data science and programming (R, python). She received her PhD in biologicial oceanography from the University of British Columbia (Vancouver, B.C., Canada) where she examined the temporal and spatial dynamics of aquatic viruses and microbes.Julia enjoys performing careful, rigorous analytical work, communicating this work and keeping an eye out for new analytical techniques and visualizations. A recent transplant to Switzerland (2016), she is originally from the East Coast of Canada. In her free time Julia enjoys hiking, skiing, exploring Switzerland, and contributing to open-source projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
