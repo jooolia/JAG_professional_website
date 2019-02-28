@@ -1,5 +1,5 @@
 +++
-title = "Presentations"
+title = "Recent & Upcoming Talks"
 
 # View.
 #   1 = List
@@ -11,7 +11,4 @@ view = 2
 [header]
 image = ""
 caption = ""
-
-
-
 +++
