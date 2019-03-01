@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- links = [{name = "Article via publisher", url = "https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14061"}]
+# links = [{name = "Article via publisher", url = "https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14061"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
