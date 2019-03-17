@@ -66,5 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-[Link to Google Scholar](https://scholar.google.com/citations?user=zSvJh6sAAAAJ&hl)
-
+[Lien pour Google Scholar](https://scholar.google.com/citations?user=zSvJh6sAAAAJ&hl)

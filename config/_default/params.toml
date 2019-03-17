@@ -53,7 +53,6 @@ time_format = "3:04 PM"
 email = "j.gustavsen@gmail.com"
 phone = ""
 address = "Morges, Switzerland"
-
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
 
@@ -63,7 +62,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/JGustavsen"},
+  {icon = "twitter", icon_pack = "fab", name = "Find me on twitter", link = "https://twitter.com/JGustavsen"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -121,7 +120,7 @@ comment_count = true
 section_pager = false
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]

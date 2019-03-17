@@ -88,6 +88,10 @@ interests = [
 
 +++
 
-Julia Gustavsen is a customer facing bioinformatician at SOPHiA GENETICS where she analyzes next generation sequencing (NGS) data. Her professional interests include bioinformatics, genomics, metagenomics, targeted gene studies, network analysis, data science and programming (R, python). She received her PhD in biologicial oceanography from the University of British Columbia (Vancouver, B.C., Canada) where she examined the temporal and spatial dynamics of aquatic viruses and microbes.Julia enjoys performing careful, rigorous analytical work, communicating this work and keeping an eye out for new analytical techniques and visualizations. A recent transplant to Switzerland (2016), she is originally from the East Coast of Canada. In her free time Julia enjoys hiking, skiing, exploring Switzerland, and contributing to open-source projects.
+Julia Gustavsen is a customer facing bioinformatician at [SOPHiA GENETICS](http://www.sophiagenetics.com), a young and growing company, where she analyzes next generation sequencing (NGS) data and interacts with colleagues and clients around the world. Her professional interests include bioinformatics, genomics, metagenomics, targeted gene studies, network analysis, data science and programming (R, python). 
+
+She received her PhD in biologicial oceanography from the University of British Columbia (Vancouver, B.C., Canada) where she examined the temporal and spatial dynamics of aquatic viruses and microbes. Julia enjoys performing careful, rigorous analytical work, communicating this work and keeping an eye out for new analytical techniques and visualizations. 
+
+A recent transplant to Switzerland (2016), she is originally from [New Brunswick](https://goo.gl/maps/sdCmqURpKRP2), a small English/French bilingual province on the east coast of Canada. In her free time, Julia enjoys hiking, skiing, exploring Switzerland, and contributing to open-source projects.
 
 {{% staticref "files/JGustavsen_cv_20190226.pdf" %}}Download my CV{{% /staticref %}}

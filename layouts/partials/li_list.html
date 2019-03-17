@@ -15,8 +15,8 @@
 {{ else if eq $item.Type "publication" }}
   {{ $microdata_type = "ScholarlyArticle" }}
   {{ $show_authors = true }}
-  {{ $show_buttons = true }}
-  
+  {{ $show_buttons = false }}
+
 {{ end }}
 
 <div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
@@ -49,7 +49,7 @@
     {{- .Params.publication | markdownify -}}
   </div>
   {{ end }}
-  
+
 
   {{ if $show_buttons }}
   <div class="btn-links">
