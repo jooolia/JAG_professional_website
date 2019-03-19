@@ -15,10 +15,10 @@
   weight = 2
 
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 
 [[main]]
