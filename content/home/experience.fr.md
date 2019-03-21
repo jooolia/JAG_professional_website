@@ -26,9 +26,9 @@ date_format = "2006-02-01"
   date_start = "2016-10-01"
   date_end = ""
   description = """
-* Analyse des données genomique de différentes types de sequençage
-* Présentation et communication des resultats aux clients (hopitaux et centres de recherche)
-* Crée des nouveaux analyses et visualization, amélioration des pipelines courantes
+* Analyse de données genomiques de différentes types de séquençage
+* Présentation et communication de resultats aux clients (hopitaux et centres de recherche)
+* Crée des nouveaux analyses et visualizations, amélioration des pipelines courantes
   """
 
 [[experience]]
@@ -38,7 +38,7 @@ date_format = "2006-02-01"
   location = "à distance"
   date_start = "2016-05-01"
   date_end = "2016-09-01"
-  description = """Amélioration des vignettes dans le R bibliothèque RCy3 pour faire des analyses avec Cytoscape"""
+  description = """Amélioration de vignettes dans le R bibliothèque RCy3 pour faire des analyses avec Cytoscape"""
   
 
 [[experience]]
