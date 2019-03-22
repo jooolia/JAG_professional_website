@@ -26,9 +26,9 @@ date_format = "2006-02-01"
   date_start = "2016-10-01"
   date_end = ""
   description = """
-* Analyse de données genomiques de différentes types de séquençage
-* Présentation et communication de resultats aux clients (hopitaux et centres de recherche)
-* Crée des nouveaux analyses et visualizations, amélioration des pipelines courantes
+* Analyse de données génomiques de différentes plateformes de séquençage
+* Présentation et communication des résultats aux clients (hôpitaux et centres de recherche)
+* Analyses et visualizations de données complexes, amélioration des pipelines
   """
 
 [[experience]]
@@ -38,12 +38,12 @@ date_format = "2006-02-01"
   location = "à distance"
   date_start = "2016-05-01"
   date_end = "2016-09-01"
-  description = """Amélioration de vignettes dans le R bibliothèque RCy3 pour faire des analyses avec Cytoscape"""
+  description = """Développement de vignettes pour la bibliothèque R permettant de réaliser des analyses de réseaux avec Cytoscape RCy3"""
   
 
 [[experience]]
-  title = "Assistant d'enseignment"
-  company = "Université de la Columbie-Britannique"
+  title = "Assistante d'enseignment"
+  company = "Université de la Colombie-Britannique"
   company_url = "http://www.ubc.ca"
   location = "Vancouver, C.-B., Canada"
   date_start = "2011-01-01"
@@ -52,7 +52,7 @@ date_format = "2006-02-01"
   
   
 [[experience]]
-  title = "Technicienne biologique"
+  title = "Technicienne en biologie"
   company = "Smithsonian Institution: Smithsonian Environmental Research Center: Marine Invasions Lab"
   company_url = "https://serc.si.edu/labs/marine-invasions-research"
   location = "Edgewater, MD, États Unis"

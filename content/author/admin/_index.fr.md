@@ -24,14 +24,14 @@ email = "j.gustavsen@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-"Génomique and Métagenomique",
+"Génomique et Metagénomique",
   "Statistiques multivariées",
-  "Séquencage Next-Generation (NGS)",
+  "Séquençage Next-Generation (NGS)",
   "Génétique humaine",
-  "L'écologie viral et microbienne",
+  "Écologie microbienne ((virus et microorganismes)",
   "Data Science",
   "Analyse des réseaux",
-  "Visualization des données"
+  "Visualisation des données"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -51,7 +51,7 @@ interests = [
 
 [[education.courses]]
   course = "BA en Anglais"
-  institution = "Universite du Nouveau-Brunswick"
+  institution = "Université du Nouveau-Brunswick"
   year = 2005
 
 # Social/Academic Networking
@@ -88,9 +88,9 @@ interests = [
 
 +++
 
-Julia Gustavsen travaille comme bioinformaticienne chez [SOPHiA GENETICS](http://www.sophiagenetics.com) où elle analyse des données NGS et interagit avec des clients et collègues du monde entier. Ses intérêts professionnels incluent la bioinformatique, la génomique, la métagénomique, l'analyse de gènes spécifiques, les analyses de réseaux, la « data science » et la programmation (R, python).
+Julia Gustavsen travaille comme bioinformaticienne chez [SOPHiA GENETICS](http://www.sophiagenetics.com). Elle analyse des données NGS et interagit avec des clients et collègues du monde entier. Ses intérêts professionnels incluent la bioinformatique, la génomique, la métagénomique, l'analyse de gènes spécifiques, les analyses de réseaux, la « data science » et la programmation (R, python).
 
-Julia s’est établie en Suisse en 2016, après l'obtention de son doctorat à l'Université de Colombie-Britannique ([UBC](https://www.ubc.ca/)). Durant sa thèse, elle a examiné les dynamiques spatiales et temporelles des viruses et microbes aquatiques. Julia aime analyser de manière rigoureuse des jeux de données complexes et communiquer les résultats à ses collègues et clients.  Elle prête beaucoup d’attention aux nouvelles techniques d'analyse et de visualisation. 
+Julia s’est établie en Suisse en 2016, après l'obtention de son doctorat à l'Université de Colombie-Britannique ([UBC](https://www.ubc.ca/)). Durant sa thèse, elle a examiné les dynamiques spatiales et temporelles des virus et microbes aquatiques. Julia aime analyser de manière rigoureuse des jeux de données complexes et communiquer les résultats à ses collègues et clients.  Elle prête beaucoup d’attention aux nouvelles techniques d'analyse et de visualisation. 
 
 Julia est originaire du [Nouveau-Brunswick](https://goo.gl/maps/sdCmqURpKRP2), une petite province bilingue anglais-français sur la côte Est du Canada. Elle aime faire de la marche, du ski, explorer la Suisse, et contribue à des projets « open-source » durant son temps libre. 
 
