@@ -1,5 +1,5 @@
 +++
-title = "Chapter 2 of Introduction to Statistical Learning"
+title = "Exercises from chapter 2 of Introduction to Statistical Learning"
 subtitle = "Responses to questions on github: Chapter 2 Statistical Learning"
 
 # Add a summary to display on homepage (optional).
