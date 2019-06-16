@@ -1,8 +1,3 @@
-
----
-output:
-  html_document: default
----
 +++
 title = "Chapter 2 of Introduction to Statistical Learning"
 subtitle = "Responses to questions on github: Chapter 2 Statistical Learning"
