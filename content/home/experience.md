@@ -18,13 +18,38 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Bioinformatician"
+  title = "Expert Bioinformatics"
+  company = "SOPHiA GENETICS"
+  company_url = "http://www.sophiagenetics.com"
+  location = "Saint Sulpice, Switzerland"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """
+  * Improve analytical pipelines related to gene fusions in somatic samples 
+  * Automated creation of analysis reports related to RNA data
+  """
+
+[[experience]]
+  title = "Senior Bioinformatician"
+  company = "SOPHiA GENETICS"
+  company_url = "http://www.sophiagenetics.com"
+  location = "Saint Sulpice, Switzerland"
+  date_start = "2019-08-01"
+  date_end = "2020-07-01"
+  description = """
+* Improve analytical pipelines related to gene fusions in somatic samples 
+* Present and communicate analyses to colleagues and clients
+  """
+
+[[experience]]
+  title = "Bioinformatics Specialist"
   company = "SOPHiA GENETICS"
   company_url = "http://www.sophiagenetics.com"
   location = "Saint Sulpice, Switzerland"
   date_start = "2016-10-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """
 * Analyse human genomic data from various sequencing platforms
 * Present and communicate analyses to clients at research institutes and hospitals
