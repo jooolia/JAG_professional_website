@@ -32,13 +32,13 @@ weight = 60
   text_color_light = true
 +++
 
-2023 [adminR at the BNS November 2023](https://www.meetup.com/adminr/events/296988080/) A tech talk about [APIs in R](https://github.com/jooolia/20231130_adminR_APIs_with_R_intro). The talk ranged from unraveling the basics to delving into real-world projects
+2023 [adminR at the BNS November 2023](https://www.meetup.com/adminr/events/296988080/) A tech talk about [APIs in R](https://github.com/jooolia/20231130_adminR_APIs_with_R_intro). The talk ranged from unraveling the basics to delving into real-world projects.
 Zurich, Switzerland
 
-2023 [Enhancer Symposium](https://symposium2023.enhancer.ch/) Oral presentation: Streamlining Research Data Storage: A user-centric approach 
+2023 [Enhancer Symposium](https://symposium2023.enhancer.ch/) Oral presentation: Streamlining Research Data Storage: A user-centric approach. 
 Bern, Switzerland
 
-2022 [Enhancer Symposium](https://symposium2022.enhancer.ch/) Poster presentation: Agroscope: Access to HPC prototype
+2022 [Enhancer Symposium](https://symposium2022.enhancer.ch/) Poster presentation: Agroscope: Access to HPC prototype.
 Bern, Switzerland
 
 2018 [OpenCon switzerland](https://openconswiss.github.io/) - [Code sharing and review in the open with rOpenSci](https://www.slideshare.net/jgustavsen/code-sharing-and-review-in-the-open-with-ropensci-115742181) 
