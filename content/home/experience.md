@@ -20,12 +20,24 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Head of Digital Bioinformatic coordination"
+  company = "Agroscope"
+  company_url = "https://www.agroscope.admin.ch/"
+  location = "Posieux, Switzerland"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  * Collaborated with researchers to develop practical IT solutions and initiated projects to implement solutions supporting advanced analysis.
+  * Established strategic partnerships and communicated project progress and outcomes to stakeholders, ensuring alignment with goals.
+  """
+
+[[experience]]
   title = "Expert Bioinformatics"
   company = "SOPHiA GENETICS"
   company_url = "http://www.sophiagenetics.com"
   location = "Saint Sulpice, Switzerland"
   date_start = "2020-07-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
   * Improve analytical pipelines related to gene fusions in somatic samples 
   * Automated creation of analysis reports related to RNA data
