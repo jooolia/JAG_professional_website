@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Bioinformaticienne"
+role = "Responsable de la coordination digitale de la bioinformatique"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "SOPHiA GENETICS", url = "http://www.sophiagenetics.com" } ]
+organizations = [ { name = "Agroscope", url = "https://www.agroscope.admin.ch/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 #bio = "My interests include X, Y and Z."
@@ -24,14 +24,16 @@ email = "j.gustavsen@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-"Génomique et Metagénomique",
-  "Statistiques multivariées",
-  "Séquençage Next-Generation (NGS)",
-  "Génétique humaine",
-  "Écologie microbienne ((virus et microorganismes)",
   "Data Science",
   "Analyse des réseaux",
-  "Visualisation des données"
+  "Visualisation des données",
+  "Apprentissage automatique",
+  "Informatique en nuage",
+  "Génomique et Metagénomique",
+  "Statistiques multivariées",
+  "Séquençage Next-Generation (NGS)",
+  "Écologie microbienne (virus et microorganismes)",
+
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -88,10 +90,13 @@ interests = [
 
 +++
 
-Julia Gustavsen travaille comme bioinformaticienne chez [SOPHiA GENETICS](http://www.sophiagenetics.com). Elle analyse des données NGS et interagit avec des clients et collègues du monde entier. Ses intérêts professionnels incluent la bioinformatique, la génomique, la métagénomique, l'analyse de gènes spécifiques, les analyses de réseaux, la « data science » et la programmation (R, python).
+Julia Gustavsen est responsable de la coordination digitale de la bioinformatique chez [Agroscope](https://www.agroscope.admin.ch/), où elle traduit les besoins de recherche en solutions informatiques pratiques et collabore étroitement avec les chercheurs pour développer des approches innovantes alignées sur leurs objectifs. Elle initie et gère des projets pour favoriser les avancées scientifiques et développe des partenariats stratégiques afin d'élargir l'accès aux technologies de pointe.
 
-Julia s’est établie en Suisse en 2016, après l'obtention de son doctorat à l'Université de Colombie-Britannique ([UBC](https://www.ubc.ca/)). Durant sa thèse, elle a examiné les dynamiques spatiales et temporelles des virus et microbes aquatiques. Julia aime analyser de manière rigoureuse des jeux de données complexes et communiquer les résultats à ses collègues et clients.  Elle prête beaucoup d’attention aux nouvelles techniques d'analyse et de visualisation. 
+Auparavant, Julia a travaillé chez [SOPHiA GENETICS](http://www.sophiagenetics.com) en tant que bioinformaticienne, où elle analysait des données de séquençage de nouvelle génération (NGS), créait des pipelines et interagissait avec des collègues et des clients du monde entier.
 
-Julia est originaire du [Nouveau-Brunswick](https://goo.gl/maps/sdCmqURpKRP2), une petite province bilingue anglais-français sur la côte Est du Canada. Elle aime faire de la marche, du ski, explorer la Suisse, et contribue à des projets « open-source » durant son temps libre. 
+Elle a obtenu son doctorat en océanographie biologique à l'Université de la Colombie-Britannique ([UBC](https://www.ubc.ca/)) à Vancouver, Canada, où elle a étudié les dynamiques spatiales et temporelles des virus et microbes aquatiques. Julia aime effectuer des travaux analytiques rigoureux, communiquer ses résultats, et rester informée des nouvelles techniques d'analyse et de visualisation.
+
+Julia s'est installée en Suisse en 2016 et est originaire du [Nouveau-Brunswick](https://goo.gl/maps/sdCmqURpKRP2), une petite province bilingue anglais-français sur la côte est du Canada. Dans son temps libre, Julia aime faire de la marche, du ski, explorer la Suisse et contribue en tant qu'éditrice à [rOpenSci](https://ropensci.org/).
+
 
 {{% staticref "files/JGustavsen_cv_20190226.pdf" %}}Téléchargez mon CV{{% /staticref %}}
