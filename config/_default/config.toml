@@ -16,7 +16,7 @@ baseurl = "https://www.juliagustavsen.com/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-48373826-1"
+googleAnalytics = "G-3WN2H165PH"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
