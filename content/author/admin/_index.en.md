@@ -100,4 +100,4 @@ She received her PhD in biologicial oceanography from the University of British 
 
 She moved to Switzerland in 2016 and is originally from [New Brunswick](https://goo.gl/maps/sdCmqURpKRP2), a small English/French bilingual province on the east coast of Canada. In her free time, Julia enjoys hiking, skiing, exploring Switzerland, and is an editor at [rOpenSci](https://ropensci.org/).
 
-{{% staticref "files/JGustavsen_cv_20190226.pdf" %}}Download my CV{{% /staticref %}}
+

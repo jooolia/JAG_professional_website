@@ -99,4 +99,3 @@ Elle a obtenu son doctorat en océanographie biologique à l'Université de la C
 Julia s'est installée en Suisse en 2016 et est originaire du [Nouveau-Brunswick](https://goo.gl/maps/sdCmqURpKRP2), une petite province bilingue anglais-français sur la côte est du Canada. Dans son temps libre, Julia aime faire de la marche, du ski, explorer la Suisse et contribue en tant qu'éditrice à [rOpenSci](https://ropensci.org/).
 
 
-{{% staticref "files/JGustavsen_cv_20190226.pdf" %}}Téléchargez mon CV{{% /staticref %}}
